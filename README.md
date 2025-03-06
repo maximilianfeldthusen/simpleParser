@@ -130,5 +130,4 @@ void executeCommand(char **args) {
 - If the command doesn't match any known ones, it prints an "Unknown command" message.
 
 ### Summary
-This code implements a simple command-line interface that can parse and execute basic commands like "hello", "add", and "sub". It demonstrates basic string processing, command execution, and user interaction in C. To extend its functionality, you could add more commands or error handling as needed.
-
+This code implements a simple command-line interface that can parse and execute basic commands like "hello", "add", and "sub". It demonstrates basic string processing, command execution, and user interaction in C. 
