@@ -131,3 +131,6 @@ void executeCommand(char **args) {
 
 ### Summary
 This code implements a simple command-line interface that can parse and execute basic commands like "hello", "add", and "sub". It demonstrates basic string processing, command execution, and user interaction in C. 
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
